@@ -16,7 +16,7 @@ This project is a website built using React.js to showcase the capabilities and 
 
 ## Live Demo
 
-To see a live demo of the project, you can visit [GPT-3 Website Demo]() and explore the features and functionality of the website.
+To see a live demo of the project, you can visit [GPT-3 Website Demo](https://aarushiagarwal131.github.io/MyProject/) and explore the features and functionality of the website.
 
 ## Installation
 
@@ -31,60 +31,28 @@ To run the project locally, follow these steps:
 ## File Structure
 
 The project's file structure is organized as follows:
-
 ```
 ├── src/
-│   ├── components/
-│   │   ├── article/
-│   │   │   ├── Article.js
-│   │   │   └── article.css
-│   │   ├── brand/
-│   │   │   ├── Brand.js
-│   │   │   └── brand.css
-│   │   ├── cta/
-│   │   │   ├── CTA.js
-│   │   │   └── cta.css
-│   │   ├── feature/
-│   │   │   ├── Feature.js
-│   │   │   └── feature.css
-│   │   └── navbar/
-│   │       ├── Navbar.js
-│   │       └── navbar.css
-│   ├── containers/
-│   │   ├── blog/
-│   │   │   ├── Blog.js
-│   │   │   └── blog.css
-│   │   ├── footer/
-│   │   │   ├── Footer.js
-│   │   │   └── footer.css
-│   │   ├── header/
-│   │   │   ├── Header.js
-│   │   │   └── header.css
-│   │   ├── possibility/
-│   │   │   ├── Possibility.js
-│   │   │   └── possibility.css
-│   │   ├── features/
-│   │   │   ├── Features.js
-│   │   │   └── features.css
-│   │   └── whatgpt3
-
-/
-│   │       ├── WhatGPT3.js
-│   │       └── whatgpt3.css
-│   ├── images/
-│   │   ├── blog01.jpg
-│   │   ├── blog02.jpg
-│   │   ├── blog03.jpg
-│   │   ├── blog04.jpg
-│   │   ├── blog05.jpg
-│   │   └── logo.png
-│   ├── App.js
-│   └── index.js
+│ ├── assets/
+│ ├── components/
+│ │ ├── article/
+│ │ ├── brand/
+│ │ ├── cta/
+│ ├── containers/
+│ │ ├── blog/
+│ │ ├── footer/
+│ │ ├── header/
+│ │ ├── possibility/
+│ │ ├── features/
+│ │ ├── whatgpt3/
+│ ├── App.js
+│ ├── App.css
+│ ├── index.js
 ├── public/
-│   ├── index.html
-│   └── favicon.ico
+│ ├── index.html
+│ └── favicon.ico
 ├── README.md
-└── package.json
+├── package.json
 ```
 
 ## Contributing
