@@ -16,7 +16,7 @@ This project is a website built using React.js to showcase the capabilities and 
 
 ## Live Demo
 
-To see a live demo of the project, you can visit [GPT-3 Website Demo](https://aarushiagarwal131.github.io/MyProject/) and explore the features and functionality of the website.
+To see a live demo of the project, you can visit [GPT-3 Website Demo](https://aarushiagarwal131.github.io/GPT3-Modern-UI-UX-Website/) and explore the features and functionality of the website.
 
 ## Installation
 
